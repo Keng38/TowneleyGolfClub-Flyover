@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
  //Hole 1 - Youtube.com and click share button. 
  //Take the end code after https://youtu.be/ and paste into relevant area in each src=' section
  //between the embed/ and the ?rel text
