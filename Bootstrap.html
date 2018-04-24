@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <link rel="stylesheet" href="css/BootstrapCSS.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h1>Towneley Golf Course 18 Hole Flyover</h1>
+  <p>Click on the balls below</p>
+  <p>The columns will automatically stack on top of each other when the screen is less than 768px wide.</p>
+  <div class="row">
+    <div  id="video" class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PWHyFnAuiVQ?rel=0&amp;showinfo=0&autoplay=1"></iframe>
+  </div>
+  <div class="col-sm-6">
+
+      <img id="Ball" src="images/Ball1.png" alt="Hole 1" onclick="video()">
+      <img id="Ball" src="images/Ball2.png" alt="Hole 2" onclick="video1()">
+      <img id="Ball" src="images/Ball3.png" alt="Hole 3" onclick="video2()">
+
+      <img id="Ball" src="images/Ball4.png" alt="Hole 4" onclick="video3()">
+      <img id="Ball" src="images/Ball5.png" alt="Hole 5" onclick="video4()">
+      <img id="Ball" src="images/Ball6.png" alt="Hole 6" onclick="video5()">
+
+      <img id="Ball" src="images/Ball7.png" alt="Hole 7" onclick="video6()">
+      <img id="Ball" src="images/Ball8.png" alt="Hole 8" onclick="video7()">
+      <img id="Ball" src="images/Ball9.png" alt="Hole 9" onclick="video8()">
+
+  </div>
+  <div class="col-sm-6">
+
+        <img id="Ball" src="images/Ball10.png" alt="hole 10" onclick="video9()">
+        <img id="Ball" src="images/Ball11.png" alt="hole 11" onclick="video10()">
+        <img id="Ball" src="images/Ball12.png" alt="hole 12" onclick="video11()">
+        <img id="Ball" src="images/Ball13.png" alt="hole 13" onclick="video12()">
+        <img id="Ball" src="images/Ball14.png" alt="hole 14" onclick="video13()">
+        <img id="Ball" src="images/Ball15.png" alt="hole 15" onclick="video14()">
+        <img id="Ball" src="images/Ball16.png" alt="hole 16" onclick="video15()">
+        <img id="Ball" src="images/Ball17.png" alt="hole 17" onclick="video16()">
+        <img id="Ball" src="images/Ball18.png" alt="hole 18" onclick="video17()">
+  </div>
+  </div>
+
+</div>
+
+</body>
+    <script src="js/Golf.js"></script>
+</html>
