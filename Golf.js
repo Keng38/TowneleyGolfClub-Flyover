@@ -45,37 +45,37 @@
     }
 //Hole 10//
     function video9(){
-    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/tfdkUluIeyE?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
+    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/l3ctT-OE17g?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
 //Hole 11//
       function video10(){
-    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/XcRpAcdAbE8?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
+    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/H1H88VZOIM8jT?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
 //Hole 12//
     function video11(){
-    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/KEWnOe6MjTg?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
+    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/myahC4qvqkw?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
 //Hole 13//
     function video12(){
-    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/KckKsw4FLrI?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
+    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/WPGzvcFziXw?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
 //Hole 14//
     function video13(){
-    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/CYOM5aLoq8k?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
+    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/Ozb_vZI7cSU?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
 //Hole 15//
     function video14(){
-    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/QApJ1SxJtxY?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
+    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/EvOUgjajjow?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
 //Hole 16//
      function video15(){
-    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/5r2ACKiflqc?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
+    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/GJND7V86cf0?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
 //Hole 17//
     function video16(){
-    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/MjVsZTr8sOE?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
+    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/j0TlU77rHo8?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
 //Hole 18//
     function video17(){
-    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/qN7aCO3R2VE?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
+    document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/nH6PamIYoqc?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
