@@ -1,8 +1,28 @@
+.grid-container1 {
+  padding-right: 0.9375rem;
+  padding-left: 0.9375rem;
+  max-height: 400px;
+  max-width: 100%;
+overflow-x: hidden;
+  overflow-y: hidden;
+  margin: 0 auto; }
+
+.ball{
+  color: white;
+  text-transform: uppercase;
+}
+.name{
+  color: white;
+  font-size: 200px;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 0px;
+}
 #Ball{
   width:auto;
-  max-width: 9%;
+  max-width: 5%;
   height: auto;
-  padding-left: 5px;
+  padding-left: 1px;
 }
 .purplebg {
 padding-left: 25px;
@@ -18,7 +38,7 @@ padding-bottom: 10px;
 .grid-container {
   padding-right: 0.9375rem;
   padding-left: 0.9375rem;
-  max-width: 62.5rem;
+  max-width: 75%;
   margin: 0 auto; }
   .grid-container.fluid {
     padding-right: 0.9375rem;
@@ -236,3 +256,29 @@ padding-bottom: 10px;
   .responsive-embed.widescreen,
   .flex-video.widescreen {
     padding-bottom: 56.25%; }
+
+.flex-video1 {
+  position: relative;
+  height: 0;
+  margin-bottom: 1rem;
+  padding-bottom: 75%;
+  overflow: hidden; }
+  .responsive-embed iframe,
+  .responsive-embed object,
+  .responsive-embed embed,
+  .responsive-embed video,
+  .flex-video1 iframe,
+  .flex-video1 object,
+  .flex-video1 embed,
+  .flex-video1 video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;      margin-top: -250px;}
+  .responsive-embed.widescreen,
+  .flex-video.widescreen {
+    padding-bottom: 56.25%; }
+
+
+
