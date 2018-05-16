@@ -5,15 +5,40 @@
   /* bring your own prefixes */
   transform: translate(-50%, 0%);
 }
+.callout {
+      box-shadow: 5px 10px 18px #888888;
+}
 
 .grid-container1 {
   padding-right: 0.9375rem;
   padding-left: 0.9375rem;
   max-height: 400px;
   max-width: 100%;
-overflow-x: hidden;
+  overflow-x: hidden;
   overflow-y: hidden;
   margin: 0 auto; }
+
+@media print, screen and (max-width: 800px){
+  .grid-container1 {
+  padding-right: 0.9375rem;
+  padding-left: 0.9375rem;
+  max-height: 250px;
+  max-width: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  margin: 0 auto; }
+}
+
+@media print, screen and (max-width: 40em){
+  .grid-container1 {
+  padding-right: 0.9375rem;
+  padding-left: 0.9375rem;
+  max-height: 150px;
+  max-width: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  margin: 0 auto; }
+}
 
 .ball{
   color: white;
@@ -269,6 +294,31 @@ padding-bottom: 10px;
 
 .flex-video1 {
   position: relative;
+  height: 100%;
+  margin-bottom: 1rem;
+  padding-bottom: 75%;
+  overflow: hidden; }
+  .responsive-embed iframe,
+  .responsive-embed object,
+  .responsive-embed embed,
+  .responsive-embed video,
+  .flex-video1 iframe,
+  .flex-video1 object,
+  .flex-video1 embed,
+  .flex-video1 video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;      
+    margin-top: -150px;}
+  .responsive-embed.widescreen,
+  .flex-video.widescreen {
+    padding-bottom: 56.25%; }
+
+  @media print, screen and (max-width: 40em) {
+  .flex-video1 {
+  position: relative;
   height: 0;
   margin-bottom: 1rem;
   padding-bottom: 75%;
@@ -285,10 +335,10 @@ padding-bottom: 10px;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;      margin-top: -250px;}
+    height: 100%;      
+    margin-top: -50px;}
   .responsive-embed.widescreen,
   .flex-video.widescreen {
     padding-bottom: 56.25%; }
-
-
+  }
 

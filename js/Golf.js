@@ -80,3 +80,41 @@
     function video17(){
     document.getElementById("video").innerHTML = "<iframe width='840' height='470' frameborder='0' src='https://www.youtube.com/embed/nH6PamIYoqc?rel=0&amp;showinfo=0&autoplay=1'  encrypted-media' allowfullscreen></iframe>";
     }
+ //Hvideo//
+    function Hvideo(){
+    document.getElementById("Hvideo").innerHTML = "<iframe frameborder='0' src='https://www.youtube.com/embed/7GZG0YUtspI?rel=0&loop=1&playlist=7GZG0YUtspI&showinfo=0&autoplay=1' encrypted-media' allowfullscreen></iframe><span class='name'><img src='images/prairieLogo.png' onclick='Hvideo()'></img></span>";
+    }
+ //Gvideo//
+    function Bvideo(){
+    document.getElementById("Bvideo").innerHTML = "<iframe frameborder='0' src='https://www.youtube.com/embed/tju6KKxSF80?rel=0&loop=1&playlist=tju6KKxSF80&showinfo=0&autoplay=1' encrypted-media' allowfullscreen></iframe><span class='name'><img src='images/prairieLogo.png' onclick='Bvideo()'></img></span>";
+    }
+ //Qvideo//
+    function Qvideo(){
+    document.getElementById("Qvideo").innerHTML = "<iframe frameborder='0' src='https://www.youtube.com/embed/xFTAtDYYwUY?rel=0&loop=1&playlist=xFTAtDYYwUY&showinfo=0&autoplay=1' encrypted-media' allowfullscreen></iframe><span class='name'><img src='images/prairieLogo.png' onclick='Qvideo()'></img></span>";
+    }
+ //Cvideo//
+    function Cvideo(){
+    document.getElementById("Cvideo").innerHTML = "<iframe frameborder='0' src='https://www.youtube.com/embed/b0JhSjJXm_k?rel=0&loop=1&playlist=b0JhSjJXm_k&showinfo=0&autoplay=1' encrypted-media' allowfullscreen></iframe><span class='name'><img src='images/prairieLogo.png' onclick='Cvideo()'></img></span>";
+    }
+ //Jvideo//
+    function Jvideo(){
+    document.getElementById("Jvideo").innerHTML = "<iframe frameborder='0' src='https://www.youtube.com/embed/m0DOMxcD3Hs?rel=0&loop=1&playlist=m0DOMxcD3Hs&showinfo=0&autoplay=1' encrypted-media' allowfullscreen></iframe><span class='name'><img src='images/prairieLogo.png' onclick='Jvideo()'></img></span>";
+    }
+ //Pvideo//
+    function Pvideo(){
+    document.getElementById("Pvideo").innerHTML = "<iframe frameborder='0' src='https://www.youtube.com/embed/GhghQ__Lu9A?rel=0&loop=1&playlist=GhghQ__Lu9A&showinfo=0&autoplay=1' encrypted-media' allowfullscreen></iframe><span class='name'><img src='images/prairieLogo.png' onclick='Pvideo()'></img></span>";
+    }
+ //Mvideo//
+    function Mvideo(){
+    document.getElementById("Mvideo").innerHTML = "<iframe frameborder='0' src='https://www.youtube.com/embed/w4-BuZmxpD0?rel=0&loop=1&playlist=w4-BuZmxpD0&showinfo=0&autoplay=1' encrypted-media' allowfullscreen></iframe><span class='name'><img src='images/prairieLogo.png' onclick='Mvideo()'></img></span>";
+    }
+ //Fvideo//
+    function Fvideo(){
+    document.getElementById("Fvideo").innerHTML = "<iframe frameborder='0' src='https://www.youtube.com/embed/GcWqWhMXnXY?rel=0&loop=1&playlist=GcWqWhMXnXY&showinfo=0&autoplay=1' encrypted-media' allowfullscreen></iframe><span class='name'><img src='images/prairieLogo.png' onclick='Fvideo()'></img></span>";
+    }
+ //Dvideo//
+    function Dvideo(){
+    document.getElementById("Dvideo").innerHTML = "<iframe frameborder='0' src='https://www.youtube.com/embed/xvj725rLAUs?rel=0&loop=1&playlist=xvj725rLAUs&showinfo=0&autoplay=1' encrypted-media' allowfullscreen></iframe><span class='name'><img src='images/prairieLogo.png' onclick='Dvideo()'></img></span>";
+    }
+
+
